@@ -12,7 +12,7 @@
 
    /* navigation menu */
    nav {
-       background: red;
+       background: orange;
       margin: 0 auto;
      margin-bottom: 20px;
        display: flex;
@@ -40,7 +40,7 @@
 
    /* main container area beneath menu */
    main {
-       background: blue;
+       background: gold;
        display: flex;
    }
    .sidebar {
