@@ -44,9 +44,9 @@ createCollectable("steve", 280, 370);
 createCollectable("kennedi", 100, 700);
 createCollectable("grace", 150, 400);
     // TODO 4 - Create Cannons
-
-
-    
+createCannon("left", 300, 500);
+createCannon("bottom", 520, 900);
+createCannon("top", 890, 100);
     
     //////////////////////////////////
     // ONLY CHANGE ABOVE THIS POINT //
